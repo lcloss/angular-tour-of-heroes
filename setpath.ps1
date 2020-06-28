@@ -1,0 +1,1 @@
+$env:Path += ";C:\Temp\node-v13.7.0-win-x64"
